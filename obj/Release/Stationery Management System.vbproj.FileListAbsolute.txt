@@ -1,0 +1,30 @@
+D:\Project II\Stationery Management System\bin\Release\Stationery Management System.exe.config
+D:\Project II\Stationery Management System\bin\Release\Stationery Management System.exe.manifest
+D:\Project II\Stationery Management System\bin\Release\Stationery Management System.application
+D:\Project II\Stationery Management System\bin\Release\Stationery Management System.exe
+D:\Project II\Stationery Management System\bin\Release\Stationery Management System.pdb
+D:\Project II\Stationery Management System\bin\Release\Stationery Management System.xml
+D:\Project II\Stationery Management System\bin\Release\Guna.UI2.dll
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.vbproj.AssemblyReference.cache
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Change_Password.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.forgetPassword.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.loginForm.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Main_Menu.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Resources.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Purchases.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Sales.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Sales_Reports.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Stationery_Details.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Stock_Info.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Stock_Reports.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Testing.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.User_Details.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery_Management_System.Verification_Code.resources
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.vbproj.GenerateResource.cache
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.vbproj.CoreCompileInputs.cache
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.exe.manifest
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.application
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.vbproj.CopyComplete
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.exe
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.xml
+D:\Project II\Stationery Management System\obj\Release\Stationery Management System.pdb
